@@ -1,0 +1,17 @@
+
+h1{
+    color: aquamarine;
+}
+p{
+    color: darkgreen;
+}
+body{
+    color: #26da6e;
+    background-color: blueviolet;
+}
+#xyz{
+    color: rgb(121, 255, 80);
+}
+.fname{
+    color: darkred;
+}
